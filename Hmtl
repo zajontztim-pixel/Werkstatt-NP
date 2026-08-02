@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kfz-Werkstatt Märkisch Linden</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="logo">
+    🚗 Kfz-Werkstatt Märkisch Linden
+  </div>
+
+  <nav>
+    <a href="#home">Start</a>
+    <a href="#leistungen">Leistungen</a>
+    <a href="#kontakt">Kontakt</a>
+  </nav>
+</header>
+
+<section class="hero" id="home">
+  <h1>Ihre Kfz-Werkstatt in Märkisch Linden</h1>
+  <p>Schnell • Zuverlässig • Preiswert</p>
+
+  <a href="#kontakt" class="button">
+    Termin vereinbaren
+  </a>
+</section>
+
+<section id="leistungen">
+
+<h2>Unsere Leistungen</h2>
+
+<div class="cards">
+
+<div class="card">
+<h3>🛞 Reifenwechsel</h3>
+<p>Sommer- und Winterreifen professionell wechseln.</p>
+</div>
+
+<div class="card">
+<h3>💡 Lampenwechsel</h3>
+<p>Schneller Austausch aller Fahrzeuglampen.</p>
+</div>
+
+<div class="card">
+<h3>🛢️ Ölwechsel</h3>
+<p>Hochwertige Öle inklusive Ölfilterwechsel.</p>
+</div>
+
+<div class="card">
+<h3>🔋 Batterie</h3>
+<p>Batterietest und Austausch.</p>
+</div>
+
+<div class="card">
+<h3>🛠 Bremsen</h3>
+<p>Bremsbeläge und Bremsscheiben prüfen.</p>
+</
